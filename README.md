@@ -43,7 +43,14 @@ El ADB es una parte fundamental del Android Studio, el software para desarrollar
 Lista de comandos más importantes (http://www.androidpit.es/que-es-adb-comandos-mas-importantes)
 
 ________________________________________
-Para que sirve el operador final en JAVA
+Para que sirve el operador "FINAL" en JAVA
+Indica que una variable, método o clase no se va a modificar, lo cuál puede ser útil para añadir más semántica, por cuestiones de rendimiento, y para detectar errores.
+
+– Si una variable se marca como final, no se podrá asignar un nuevo valor a la variable.
+– Si una clase se marca como final, no se podrá extender la clase.
+– Si es un método el que se declara como final, no se podrá sobreescribir.
+
+Algo muy a tener en cuenta a la hora de utilizar este modificador es que si es un objeto lo que hemos marcado como final, esto no nos impedirá modificar el objeto en sí, sino tan sólo usar el operador de asignación para cambiar la referencia.
 
 __________________________________________________
 ¿Que Lenguajes soportan Sobre Carga de operadores?
