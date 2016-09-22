@@ -49,6 +49,10 @@ __________________________________________________
 ¿Que Lenguajes soportan Sobre Carga de operadores?
 Java, C++, C#, Python.
 
+_________________________________
+¿Para que sirve Gradle? 
+Gradle es una herramienta para automatizar la construcción de nuestros proyectos, por ejemplo las tareas de compilación, testing, empaquetado y el despliegue de los mismos. Es muy flexible para la configuración, pero además ya tiene armadas las tareas para las mayoría de los proyectos por default. Esta herramienta es usado por grandes proyecto “Open Source” como “Spring”, “Hibernate”, y “Grails”. (También lo usan empresas como “LinkedIn” para sus proyectos)
+
 _____________________________________________________________________________
 ¿En que consiste la injección de dependencias en desarrollo de software, y por qué es útil utilizarla?
 
