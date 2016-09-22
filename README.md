@@ -42,4 +42,9 @@ El ADB es una parte fundamental del Android Studio, el software para desarrollar
 
 Lista de comandos más importantes (http://www.androidpit.es/que-es-adb-comandos-mas-importantes)
 
+________________________________________
+Para que sirve el operador final en JAVA
 
+__________________________________________________
+¿Que Lenguajes soportan Sobre Carga de operadores?
+Java, C++, C#, Python.
