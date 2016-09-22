@@ -32,3 +32,14 @@ El patrón builder es creacional.
 A menudo, el patrón builder construye el patrón Composite, un patrón estructural.
 
 Intención: Abstrae el proceso de creación de un objeto complejo, centralizando dicho proceso en un único punto, de tal forma que el mismo proceso de construcción pueda crear representaciones diferentes.
+
+________________
+ADB de Android
+
+Las siglas ADB significan Android Debug Bridge y se corresponden con una herramienta de software que nos permite interactuar con nuestro smartphone Android desde un ordenador. Así, por ejemplo, a través de ADB podemos ejecutar comandos para copiar archivos desde el ordenador al teléfono o viceversa, flashear un revocery o el firmware completo e incluso reiniciar el dispositivo en modo recovery. 
+
+El ADB es una parte fundamental del Android Studio, el software para desarrollar aplicaciones en Android. Para obtener el ADB no es necesario instalar Android Studio, algunos desarrolladores de la comunidad nos facilitan el trabajo actualizando periodicamente un paquete muy cómodo con el ADB, fastboot y los drivers (Windows) necesarios.
+
+Lista de comandos más importantes (http://www.androidpit.es/que-es-adb-comandos-mas-importantes)
+
+
