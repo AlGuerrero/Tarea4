@@ -48,3 +48,14 @@ Para que sirve el operador final en JAVA
 __________________________________________________
 ¿Que Lenguajes soportan Sobre Carga de operadores?
 Java, C++, C#, Python.
+
+_____________________________________________________________________________
+¿En que consiste la injección de dependencias en desarrollo de software, y por qué es útil utilizarla?
+
+La inyección de dependencias es un patrón de diseño de software usado en la Programación Orientada a Objetos, que trata de solucionar las necesidades de creación de los objetos de una manera práctica, útil, escalable y con una alta versatilidad del código.
+
+Como cualquier patrón de diseño de software trata de solucionar de una manera elegante un problema habitual en el desarrollo de software, por lo que también es idóneo utilizar este patrón en el desarrollo de proyectos a pequeña escala.
+
+Aparte de un patrón de diseño de software, vamos a explicar qué idea hay detrás de ese nombre. Este patrón, como muchos otros, nos ayuda a separar nuestro código por responsabilidades, siendo que en esta ocasión sólo se dedica a organizar el código que tiene que ver con la creación de los objetos.
+
+-- uno de los principios básicos de la programación, y de las buenas prácticas, es la separación del código por responsabilidades. Pues la inyección de dependencias parte de ahí. --
